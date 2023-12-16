@@ -23,6 +23,6 @@
 
 <ul>
   <li>
-    <a href="https://657d94b6c7a0a52c2093aa6f--fastidious-creponne-39d531.netlify.app/"> Check Now 😍</a>
+    <a href="https://657dd75c58f3e653f495b89f--celebrated-brioche-4d6ac9.netlify.app/"> Check Now 😍</a>
   </li>
 </ul>
