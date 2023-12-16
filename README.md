@@ -7,6 +7,9 @@
     run command : npm i
   </li>
   <li>
+    run command : npm start
+  </li>
+  <li>
     Server will start .........
   </li>
 </ul>
